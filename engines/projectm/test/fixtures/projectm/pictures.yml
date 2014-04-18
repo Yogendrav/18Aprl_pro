@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  attachment: MyString
+  project_id: 1
+  resource_type: MyString
+  resource_id: 1
+
+two:
+  attachment: MyString
+  project_id: 1
+  resource_type: MyString
+  resource_id: 1
